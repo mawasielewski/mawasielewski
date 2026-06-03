@@ -7,15 +7,15 @@ I am actively seeking internships in Poland and the UK across data and business 
 
 ## What I Do
 - Data / Business Analysis and Reporting — Python, Power BI, Tableau, Excel, SQL
-- Structured problem solving
+- Structured problem solving - DMAIC methodology, root cause analysis, KPI definition and monitoring
 
 ## Projects
-Portfolio Risk Analysis Project using the DMAIC framework - https://github.com/mawasielewski/portfolio-risk-analysis-project
+- [Portfolio Risk Analysis — DMAIC](https://github.com/mawasielewski/portfolio-risk-analysis-project) — Portfolio optimisation using Python, Excel and Power BI
 
-Beyond Step-Free: A risk-based framework for evaluating accessible journey reliability on the London Underground (FULL REPORT AVAILABLE INSIDE README) - https://github.com/mawasielewski/dissertation-final-year-project
+- [Beyond Step-Free — Accessible Journey Risk Modelling](https://github.com/mawasielewski/dissertation-final-year-project) — Final year dissertation, full report available in repo
 
 ## Let's Connect!
-https://www.linkedin.com/in/mateusz-wasielewski-89208225a/
+[LinkedIn](https://www.linkedin.com/in/mateusz-wasielewski-89208225a/)
 <!--
 **mawasielewski/mawasielewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
