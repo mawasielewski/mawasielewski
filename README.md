@@ -10,7 +10,7 @@ I am actively seeking internships in Poland and the UK across data and business 
 - Structured problem solving
 
 ## Projects
-[One line per project with a link]
+Portfolio Risk Analysis Project using the DMAIC framework - https://github.com/mawasielewski/portfolio-risk-analysis-project
 
 ## Let's Connect!
 https://www.linkedin.com/in/mateusz-wasielewski-89208225a/
