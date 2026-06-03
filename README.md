@@ -1,5 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mateusz 👋
 
+## About Me
+I'm a final-year Computer Science student at Queen Mary, University of London. 
+Bilingual in English and Polish, intermediate in French.
+I am actively seeking internships in Poland and the UK across data and business analysis, AI/ML, and software engineering.
+
+## What I Do
+- Data / Business Analysis and Reporting — Python, Power BI, Tableau, Excel, SQL
+- Structured problem solving
+
+## Projects
+[One line per project with a link]
+
+## Let's Connect!
+https://www.linkedin.com/in/mateusz-wasielewski-89208225a/
 <!--
 **mawasielewski/mawasielewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
