@@ -12,6 +12,8 @@ I am actively seeking internships in Poland and the UK across data and business 
 ## Projects
 Portfolio Risk Analysis Project using the DMAIC framework - https://github.com/mawasielewski/portfolio-risk-analysis-project
 
+Beyond Step-Free: A risk-based framework for evaluating accessible journey reliability on the London Underground - 
+
 ## Let's Connect!
 https://www.linkedin.com/in/mateusz-wasielewski-89208225a/
 <!--
