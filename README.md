@@ -10,9 +10,9 @@ I am actively seeking internships in Poland and the UK across data and business 
 - Structured problem solving - DMAIC methodology, root cause analysis, KPI definition and monitoring
 
 ## Projects
-- [Portfolio Risk Analysis — DMAIC](https://github.com/mawasielewski/portfolio-risk-analysis-project) — Portfolio optimisation using Python, Excel and Power BI
+- [Portfolio Risk Analysis - DMAIC](https://github.com/mawasielewski/portfolio-risk-analysis-project) - Portfolio optimisation using Python, Excel and Power BI
 
-- [Beyond Step-Free — Accessible Journey Risk Modelling](https://github.com/mawasielewski/dissertation-final-year-project) — Final year dissertation, full report available in repo
+- [Beyond Step-Free - Accessible Journey Risk Modelling](https://github.com/mawasielewski/dissertation-final-year-project) - Final year dissertation, full report available in repo
 
 ## Let's Connect!
 [LinkedIn](https://www.linkedin.com/in/mateusz-wasielewski-89208225a/)
