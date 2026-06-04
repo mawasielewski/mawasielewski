@@ -6,7 +6,7 @@ Bilingual in English and Polish, intermediate in French.
 I am actively seeking internships in Poland and the UK across data and business analysis, AI/ML, and software engineering.
 
 ## What I Do
-- Data / Business Analysis and Reporting — Python, Power BI, Tableau, Excel, SQL
+- Data / Business Analysis and Reporting - Python, Power BI, Tableau, Excel, SQL
 - Structured problem solving - DMAIC methodology, root cause analysis, KPI definition and monitoring
 
 ## Projects
