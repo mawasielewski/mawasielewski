@@ -8,7 +8,7 @@ I am actively seeking internships in Poland and the UK across data and business 
 ## What I Do
 - Data / Business Analysis and Reporting - Python, Power BI, Tableau, Excel, SQL
 - Structured problem solving - DMAIC methodology, root cause analysis, KPI definition and monitoring
-- Process modelling — UML (use case, class, sequence diagrams) and BPMN
+- Process modelling - UML (use case, class, sequence diagrams) and BPMN
 
 ## Projects
 - [Portfolio Risk Analysis - DMAIC](https://github.com/mawasielewski/portfolio-risk-analysis-project) - Portfolio optimisation using Python, Excel and Power BI
