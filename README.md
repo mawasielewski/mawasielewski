@@ -11,6 +11,8 @@ I am actively seeking internships in Poland and the UK across data and business 
 - Process modelling - UML (use case, class, sequence diagrams) and BPMN
 
 ## Projects
+- [Szczecin Real Estate Risk Project](https://github.com/mawasielewski/szczecin-realestate-risk-project) - Risk analysis & model as well as an intuitive dashboard of the real estate market in Szczecin 
+
 - [Portfolio Risk Analysis - DMAIC](https://github.com/mawasielewski/portfolio-risk-analysis-project) - Portfolio optimisation using Python, Excel and Power BI
 
 - [Beyond Step-Free - Accessible Journey Risk Modelling](https://github.com/mawasielewski/dissertation-final-year-project) - Final year dissertation, full report available in repo
